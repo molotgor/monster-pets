@@ -26,6 +26,8 @@
     }
   ],
   "url": "https://github.com/molotgor/monster-pets",
+  "manifest": "https://raw.githubusercontent.com/molotgor/monster-pets/master/module.json",
+  "download": "https://github.com/molotgor/monster-pets/archive/refs/heads/master.zip",
   "packFolders": [
     {
       "name": "Monster Pets",
